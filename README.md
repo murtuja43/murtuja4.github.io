@@ -38,6 +38,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 AI & LLM explanation from here https://www.youtube.com/watch?v=osKyvYJ3PRM</p>
 
+<p>🟢 Learned about inference from https://www.cloudflare.com/learning/ai/inference-vs-training/</p>
+
 <p>🟢 </p>
 
 

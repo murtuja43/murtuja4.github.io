@@ -40,6 +40,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Learned about inference from https://www.cloudflare.com/learning/ai/inference-vs-training/</p>
 
+<p>🟢 Started doing a task "https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?resource=download"</p>
+
 <p>🟢 </p>
 
 

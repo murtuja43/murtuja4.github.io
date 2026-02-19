@@ -42,9 +42,9 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Started doing a task "https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?resource=download"</p>
 
+<p>🟢 Did data cleaning (removed unwanted columns), changed category M & B to 1 & 2 because the ML model needs numeric input</p>
+
 <p>🟢 </p>
-
-
 
 <hr/>
 

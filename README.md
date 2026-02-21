@@ -44,6 +44,9 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Did data cleaning (removed unwanted columns), changed category M & B to 1 & 2 because the ML model needs numeric input</p>
 
+<p>🟢 Did Feature Scaling in the model (its to ensure all variables contribute equally to the model, also because difference between the max variables is too high) </p>
+
+
 <p>🟢 </p>
 
 <hr/>

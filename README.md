@@ -46,8 +46,9 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Did Feature Scaling in the model (its to ensure all variables contribute equally to the model, also because difference between the max variables is too high) </p>
 
-
 <p>🟢 Learning Training Logistic Regression</p>
+<p>🟢 Did logistic Regression on the project (Breast Cancer ML)</p>
+
 <p>🟢 </p>
 
 <hr/>

@@ -49,6 +49,9 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 Learning Training Logistic Regression</p>
 <p>🟢 Did logistic Regression on the project (Breast Cancer ML)</p>
 
+<p>🟢 Learned and used Linear Logistic Regression in the model</p>
+
+
 <p>🟢 </p>
 
 <hr/>

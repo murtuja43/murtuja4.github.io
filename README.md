@@ -52,9 +52,14 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 Learned and used Linear Logistic Regression in the model</p>
 
 
+<p>🟢 Went to lab on 4th floor and showed the project to the lab professor and othersde</p>
+
 <p>🟢 </p>
 
 <hr/>
+
+
+
 
 <h2>🟡 To Do List</h2>
 <h3>NumPy</h3>

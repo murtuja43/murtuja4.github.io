@@ -54,6 +54,9 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Went to lab on 4th floor and showed the project to the lab professor and othersde</p>
 
+<p>🟢 Saw the needed imports for ml (like- numpy, pandas, matplotlib, seaborn, models, etc)</p>
+
+
 <p>🟢 </p>
 
 <hr/>

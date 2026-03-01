@@ -57,6 +57,8 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 Saw the needed imports for ml (like- numpy, pandas, matplotlib, seaborn, models, etc)</p>
 
 
+<p>🟢 Started working on "Parkinson's Telemonitoring" project</p>
+
 <p>🟢 </p>
 
 <hr/>

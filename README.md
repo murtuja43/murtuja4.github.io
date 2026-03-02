@@ -59,6 +59,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Started working on "Parkinson's Telemonitoring" project</p>
 
+<p>🟢 Imported the csv file, scalled it, and trained linar Regression.ad</p>
+
 <p>🟢 </p>
 
 <hr/>

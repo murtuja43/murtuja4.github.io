@@ -61,6 +61,9 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Imported the csv file, scalled it, and trained linar Regression.ad</p>
 
+<p>🟢 Learned about F1 score</p>
+
+
 <p>🟢 </p>
 
 <hr/>

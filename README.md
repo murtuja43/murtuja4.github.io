@@ -63,6 +63,7 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Learned about F1 score</p>
 
+<p>🟢 Trying to Understand Precision and (vs) Recall</p>
 
 <p>🟢 </p>
 

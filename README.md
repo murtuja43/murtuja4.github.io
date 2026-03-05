@@ -65,6 +65,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Trying to Understand Precision and (vs) Recall</p>
 
+<p>🟢 Learned Cross-validation</p>
+
 <p>🟢 </p>
 
 <hr/>

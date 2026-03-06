@@ -67,6 +67,9 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Learned Cross-validation</p>
 
+<p>🟢 Learned Precision and Recall through project (practical).</p>
+
+
 <p>🟢 </p>
 
 <hr/>

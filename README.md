@@ -70,6 +70,8 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 Learned Precision and Recall through project (practical).</p>
 
 
+<p>🟢 Today I tried to Understand why ROC-AUC is useful</p>
+
 <p>🟢 </p>
 
 <hr/>

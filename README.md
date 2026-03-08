@@ -72,6 +72,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Today I tried to Understand why ROC-AUC is useful</p>
 
+<p>🟢 Did some work on "Parkinson's Telemonitoring" project</p>
+
 <p>🟢 </p>
 
 <hr/>

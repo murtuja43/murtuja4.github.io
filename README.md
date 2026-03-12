@@ -74,7 +74,7 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Did some work on "Parkinson's Telemonitoring" project</p>
 
-<p>🟢 </p>
+<p>🟢 Trained new model on "Parkinson's Telemonitoring" project</p>
 
 <hr/>
 

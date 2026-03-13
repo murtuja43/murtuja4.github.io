@@ -76,6 +76,10 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Trained new model on "Parkinson's Telemonitoring" project</p>
 
+<p>🟢 Started learning from the new bootcamp</p>
+
+<p>🟢 </p>
+
 <hr/>
 
 

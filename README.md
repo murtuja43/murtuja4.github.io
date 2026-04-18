@@ -78,6 +78,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Started learning from the new bootcamp</p>
 
+<p>🟢 Started Working on my mini project (Daily Fuel application)</p>
+
 <p>🟢 </p>
 
 <hr/>

@@ -80,6 +80,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Started Working on my mini project (Daily Fuel application)</p>
 
+<p>🟢 Launched "Daily Fuel" app on playstore (currently added testers-14)</p>
+
 <p>🟢 </p>
 
 <hr/>

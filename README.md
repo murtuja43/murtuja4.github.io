@@ -84,6 +84,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Solved partial differential equations problems. and applied in international youth event 2026(russia)</p>
 
+<p>🟢 Learned ml pipelines a little more.</p>
+
 <p>🟢 </p>
 
 <hr/>

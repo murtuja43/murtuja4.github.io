@@ -86,6 +86,7 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Learned ml pipelines a little more.</p>
 
+<p>🟢 Learned some basics of Computer Vision.</p>
 <p>🟢 </p>
 
 <hr/>

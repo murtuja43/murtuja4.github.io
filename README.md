@@ -87,7 +87,10 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 Learned ml pipelines a little more.</p>
 
 <p>🟢 Learned some basics of Computer Vision.</p>
+
 <p>🟢 Brainstormed new ideas of projects and tried writing the abstract for lund3d ai project</p>
+
+<p>🟢 Reviewed some computer vision projects (in lab-4th floor)</p>
 
 <p>🟢 </p>
 

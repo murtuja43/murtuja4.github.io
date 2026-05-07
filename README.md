@@ -92,6 +92,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Reviewed some computer vision projects (in lab-4th floor)</p>
 
+<p>🟢 Did partial differential equations for fluid dynamics (it was not interesting-haha)</p>
+
 <p>🟢 </p>
 
 <hr/>

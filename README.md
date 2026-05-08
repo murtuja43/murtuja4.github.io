@@ -94,6 +94,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Did partial differential equations for fluid dynamics (it was not interesting-haha)</p>
 
+<p>🟢 Read some article on Artificial General Intelligence</p>
+
 <p>🟢 </p>
 
 <hr/>

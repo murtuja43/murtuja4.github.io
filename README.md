@@ -96,6 +96,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Read some article on Artificial General Intelligence</p>
 
+<p>🟢 Learned C# basics to work on unity (to make games)</p>
+
 <p>🟢 </p>
 
 <hr/>

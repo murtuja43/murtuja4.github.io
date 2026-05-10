@@ -98,6 +98,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Learned C# basics to work on unity (to make games)</p>
 
+<p>🟢 Started working on a new personal ai voice agent app (didn't create a repo for it yet)</p>
+
 <p>🟢 </p>
 
 <hr/>

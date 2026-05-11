@@ -100,6 +100,7 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Started working on a new personal ai voice agent app (didn't create a repo for it yet)</p>
 
+<p>🟢 Ai Voice agent app (preparation done)</p>
 <p>🟢 </p>
 
 <hr/>

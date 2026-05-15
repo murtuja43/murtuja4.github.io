@@ -106,6 +106,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Did some work on ai voice agent app today too (didn't create the repo yet)</p>
 
+<p>🟢 Did some work on ai voice agent app today too (trying to fix android debuging to test on phone) (didn't create the repo yet)</p>
+
 <p>🟢 </p>
 
 <hr/>

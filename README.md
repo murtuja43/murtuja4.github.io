@@ -110,6 +110,10 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Started learning c++ algorithms again for exam😅</p>
 
+<p>🟢 Preparing for the Object-Oriented C++ Programming course</p>
+
+<p>🟢 </p>
+
 <hr/>
 
 

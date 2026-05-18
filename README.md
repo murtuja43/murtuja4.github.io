@@ -112,6 +112,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Preparing for the Object-Oriented C++ Programming course</p>
 
+<p>🟢 Working on another project (from lab)</p>
+
 <p>🟢 </p>
 
 <hr/>

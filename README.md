@@ -114,7 +114,7 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Working on another project (from lab)</p>
 
-<p>🟢 </p>
+<p>🟢 insertionSort, quickSort, mergeSort, heapSort (revised these sorting algorithms for c++ exam)</p>
 
 <hr/>
 

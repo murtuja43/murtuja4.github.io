@@ -116,6 +116,10 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 insertionSort, quickSort, mergeSort, heapSort (revised these sorting algorithms for c++ exam)</p>
 
+<p>🟢 Preparing for the startup competition (with nurdaulet agai (4th floor lab)</p>
+
+<p>🟢 </p>
+
 <hr/>
 
 

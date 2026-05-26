@@ -118,7 +118,7 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Preparing for the startup competition (with nurdaulet agai (4th floor lab)</p>
 
-<p>🟢 </p>
+<p>🟢 Started Internship project (academic internship) </p>
 
 <hr/>
 

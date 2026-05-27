@@ -120,6 +120,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Started Internship project (academic internship) </p>
 
+<p>🟢 Worked on internship project </p>
+
 <hr/>
 
 

@@ -1,0 +1,83 @@
+import {
+  Activity,
+  ArrowRight,
+  ArrowUpRight,
+  Brain,
+  BrainCircuit,
+  ChevronDown,
+  Code2,
+  Cpu,
+  Download,
+  ExternalLink,
+  GitFork,
+  Github,
+  GraduationCap,
+  Instagram,
+  Layers,
+  Linkedin,
+  Mail,
+  MapPin,
+  MessageCircle,
+  Menu,
+  Network,
+  Presentation,
+  ScanSearch,
+  Send,
+  Sigma,
+  Sparkles,
+  Star,
+  Users,
+  Waves,
+  Wrench,
+  X,
+  Youtube,
+  type LucideIcon,
+} from "lucide-react";
+
+const registry: Record<string, LucideIcon> = {
+  activity: Activity,
+  "arrow-right": ArrowRight,
+  "arrow-up-right": ArrowUpRight,
+  brain: Brain,
+  "brain-circuit": BrainCircuit,
+  "chevron-down": ChevronDown,
+  "code-2": Code2,
+  cpu: Cpu,
+  download: Download,
+  "external-link": ExternalLink,
+  "git-fork": GitFork,
+  github: Github,
+  "graduation-cap": GraduationCap,
+  instagram: Instagram,
+  layers: Layers,
+  linkedin: Linkedin,
+  mail: Mail,
+  "map-pin": MapPin,
+  "message-circle": MessageCircle,
+  menu: Menu,
+  network: Network,
+  presentation: Presentation,
+  "scan-search": ScanSearch,
+  send: Send,
+  sigma: Sigma,
+  sparkles: Sparkles,
+  star: Star,
+  users: Users,
+  waves: Waves,
+  wrench: Wrench,
+  x: X,
+  youtube: Youtube,
+};
+
+export function Icon({
+  name,
+  className,
+  strokeWidth = 1.5,
+}: {
+  name: string;
+  className?: string;
+  strokeWidth?: number;
+}) {
+  const Cmp = registry[name] ?? Sparkles;
+  return <Cmp className={className} strokeWidth={strokeWidth} aria-hidden />;
+}

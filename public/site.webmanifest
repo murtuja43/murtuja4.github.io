@@ -1,0 +1,16 @@
+{
+  "name": "Murtuja Kayes — AI Engineer & ML Researcher",
+  "short_name": "Murtuja Kayes",
+  "description": "Portfolio of Murtuja Kayes, AI Engineer and Machine Learning Researcher with an Applied Mathematics background.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

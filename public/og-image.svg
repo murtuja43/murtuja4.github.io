@@ -1,0 +1,51 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34D399"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientTransform="translate(160 140) rotate(45) scale(520)">
+      <stop stop-color="#10B981" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientTransform="translate(1080 560) rotate(135) scale(520)">
+      <stop stop-color="#06B6D4" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#22D3EE" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="630" fill="#050816"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <rect width="1200" height="630" fill="url(#glow1)"/>
+  <rect width="1200" height="630" fill="url(#glow2)"/>
+
+  <!-- monogram -->
+  <g transform="translate(80 70)">
+    <rect width="84" height="84" rx="20" fill="#0A0F24" stroke="url(#brand)" stroke-opacity="0.4"/>
+    <path d="M22 62V24L40 52L58 24V62" stroke="url(#brand)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="80" y="300" font-family="Geist, Inter, sans-serif" font-size="34" letter-spacing="3" fill="#34D399">// AI ENGINEER · ML RESEARCHER · APPLIED MATHEMATICS</text>
+
+  <text x="78" y="400" font-family="Geist, Inter, sans-serif" font-size="104" font-weight="700" fill="#F8FAFC">Murtuja <tspan fill="url(#brand)">Kayes</tspan></text>
+
+  <text x="80" y="470" font-family="Geist, Inter, sans-serif" font-size="30" fill="#CBD5E1">Building intelligent systems &amp; ML research, grounded in mathematics.</text>
+
+  <!-- metric strip -->
+  <g font-family="Geist Mono, monospace">
+    <text x="80" y="558" font-size="40" font-weight="700" fill="url(#brand)">3+</text>
+    <text x="80" y="588" font-size="20" fill="#94A3B8">AI Projects</text>
+
+    <text x="320" y="558" font-size="40" font-weight="700" fill="url(#brand)">500K+</text>
+    <text x="320" y="588" font-size="20" fill="#94A3B8">Video Reach</text>
+
+    <text x="620" y="558" font-size="40" font-weight="700" fill="url(#brand)">7,000+</text>
+    <text x="620" y="588" font-size="20" fill="#94A3B8">Social Audience</text>
+
+    <text x="940" y="558" font-size="40" font-weight="700" fill="url(#brand)">@ Alfa</text>
+    <text x="940" y="588" font-size="20" fill="#94A3B8">AI Engineer</text>
+  </g>
+</svg>

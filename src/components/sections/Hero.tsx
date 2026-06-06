@@ -30,7 +30,7 @@ const container = {
 function ProfileVisual() {
   const [imgOk, setImgOk] = useState(true);
   return (
-    <div className="relative mx-auto w-full max-w-sm lg:max-w-none">
+    <div className="relative mx-auto w-full max-w-[260px] sm:max-w-xs lg:max-w-none">
       <div className="relative aspect-[4/5] overflow-hidden rounded-2xl border border-emerald-400/20 glass">
         {/* gradient rim glow */}
         <div
@@ -127,9 +127,14 @@ export function Hero() {
       />
 
       <div className="container">
-        <div className="grid items-center gap-12 lg:grid-cols-[1.15fr_0.85fr]">
+        <div className="flex flex-col gap-10 lg:grid lg:grid-cols-[1.15fr_0.85fr] lg:items-center lg:gap-12">
           {/* LEFT: identity */}
-          <motion.div variants={container} initial="hidden" animate="visible">
+          <motion.div
+            variants={container}
+            initial="hidden"
+            animate="visible"
+            className="order-1 lg:order-none"
+          >
             <motion.p
               variants={item}
               className="kicker mb-5 inline-flex items-center gap-2"
@@ -186,19 +191,23 @@ export function Hero() {
             </motion.div>
           </motion.div>
 
-          {/* RIGHT: profile */}
-          <motion.div variants={container} initial="hidden" animate="visible">
+          {/* RIGHT: profile (mobile: rendered last, after the metric strip) */}
+          <motion.div
+            variants={container}
+            initial="hidden"
+            animate="visible"
+            className="order-3 lg:order-none"
+          >
             <ProfileVisual />
           </motion.div>
-        </div>
 
-        {/* METRIC STRIP — above the fold credibility */}
-        <motion.div
-          variants={container}
-          initial="hidden"
-          animate="visible"
-          className="mt-16 grid grid-cols-2 gap-px overflow-hidden rounded-xl border border-border glass md:mt-20 md:grid-cols-4"
-        >
+          {/* METRIC STRIP — credibility above the fold (mobile: sits before the photo) */}
+          <motion.div
+            variants={container}
+            initial="hidden"
+            animate="visible"
+            className="order-2 grid grid-cols-2 gap-px overflow-hidden rounded-xl border border-border glass md:grid-cols-4 lg:order-none lg:col-span-2 lg:mt-4"
+          >
           {heroStats.map((s) => (
             <motion.div
               key={s.label}
@@ -216,7 +225,8 @@ export function Hero() {
               <span className="text-xs text-ink-muted sm:text-sm">{s.label}</span>
             </motion.div>
           ))}
-        </motion.div>
+          </motion.div>
+        </div>
       </div>
 
       {/* scroll cue */}

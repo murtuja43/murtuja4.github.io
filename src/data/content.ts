@@ -23,7 +23,7 @@ export const site = {
     "AI Engineer & ML Researcher with an Applied Mathematics background.",
   description:
     "Murtuja Kayes — AI Engineer and Machine Learning Researcher at Alfa Center. Applied Mathematics student building intelligent systems and conducting research grounded in optimization, statistics, and signal processing.",
-  email: "himu278statistics3@gmail.com",
+  email: "murtujakayes@gmail.com",
   location: "Kazakhstan",
 } as const;
 
@@ -147,55 +147,57 @@ export const projects: Project[] = [
       "Healthcare-focused evaluation with clinical relevance in mind",
     ],
     tech: ["Python", "PyTorch", "Deep Learning", "Signal Processing"],
+    // TODO: the provided repo `ecg-cardiac-disease-analysis` 404s — points to
+    // profile for now. Replace once the repo is public or the URL is corrected.
     github: "https://github.com/murtuja43",
     demo: "",
     featured: true,
     accent: "emerald",
   },
   {
-    title: "Machine Learning Research Project",
-    tagline: "Applied ML research bridging mathematics and experimentation.",
+    title: "Lung CT Scan Analyzer (3D)",
+    tagline: "AI-powered lung CT analysis with interactive 3D visualization.",
     description:
-      "A research-oriented machine-learning project exploring model design, training dynamics, and evaluation. Emphasis on rigorous experimentation, reproducibility, and connecting empirical results back to the underlying mathematical and statistical principles.",
+      "An AI system that analyzes lung CT scans and renders the results in interactive 3D. Built in Python with a web interface, it combines deep-learning-based medical image analysis with intuitive volumetric visualization to support exploration of pulmonary structures — a healthcare-AI project where signal/image analysis meets usable tooling.",
     highlights: [
-      "Hypothesis-driven experimentation and structured evaluation",
-      "Mathematically grounded model and method selection",
-      "Reproducible training and analysis workflow",
+      "Deep-learning analysis of lung CT scan volumes",
+      "Interactive 3D visualization of results",
+      "Python pipeline with a web-based interface",
     ],
-    tech: ["Python", "Scikit-Learn", "NumPy", "Statistics"],
-    github: "https://github.com/murtuja43",
+    tech: ["Python", "Deep Learning", "Medical Imaging", "3D Visualization"],
+    github: "https://github.com/murtuja43/lung3d-ai",
     demo: "",
     featured: true,
     accent: "cyan",
   },
   {
-    title: "AI-Powered Application",
-    tagline: "Turning machine-learning models into a usable product.",
+    title: "ZhanAI",
+    tagline: "A full-stack AI application, from ML core to web interface.",
     description:
-      "An application that puts machine learning into the hands of users — wrapping trained models in a clean, responsive interface. Focused on the full path from model to product: inference, UX, and reliable delivery.",
+      "ZhanAI is an end-to-end AI application that pairs a Python machine-learning core with a TypeScript web interface, packaged with Docker for reproducible deployment. It reflects the full path from model to product — building, serving, and delivering machine learning behind a clean user experience.",
     highlights: [
-      "Model integration behind a responsive interface",
-      "Practical inference and user-facing experience",
-      "End-to-end delivery from model to product",
+      "Python machine-learning backend",
+      "TypeScript web interface",
+      "Containerized with Docker for reproducible deployment",
     ],
-    tech: ["Python", "Machine Learning", "React", "TypeScript"],
-    github: "https://github.com/murtuja43",
+    tech: ["Python", "TypeScript", "Docker", "Machine Learning"],
+    github: "https://github.com/murtuja43/ZhanAI",
     demo: "",
     featured: true,
     accent: "emerald",
   },
   {
-    title: "Data Science Project",
-    tagline: "Extracting insight from data with statistical rigor.",
+    title: "Breast Cancer Detection",
+    tagline: "Machine-learning classification for breast cancer detection.",
     description:
-      "A data-science project centered on analysis, visualization, and statistical reasoning. From exploratory analysis to communicating findings, the work emphasizes clarity, correctness, and the mathematics behind the methods.",
+      "A machine-learning project for breast cancer detection, developed in Python notebooks. It covers the full data-science workflow — data exploration, feature analysis, model training, and evaluation — applying statistical and ML methods to a healthcare classification problem.",
     highlights: [
-      "Exploratory data analysis and statistical inference",
-      "Clear, honest data visualization",
-      "Insight communication grounded in statistics",
+      "End-to-end ML workflow in Python notebooks",
+      "Data exploration, modeling, and evaluation",
+      "Healthcare-focused classification",
     ],
-    tech: ["Python", "Pandas", "NumPy", "Matplotlib"],
-    github: "https://github.com/murtuja43",
+    tech: ["Python", "Jupyter", "Scikit-Learn", "Machine Learning"],
+    github: "https://github.com/murtuja43/Breast_Cancer_Detection_Project",
     demo: "",
     featured: true,
     accent: "cyan",
@@ -323,19 +325,19 @@ export const contentTopics = [
 export const contentPlatforms: ContentPlatform[] = [
   {
     name: "YouTube",
-    handle: "@murtuja",
+    handle: "@BeginnerBitsHQ",
     metric: "500K+",
     metricLabel: "Total Views",
     icon: "youtube",
-    href: "https://youtube.com",
+    href: "https://www.youtube.com/@BeginnerBitsHQ",
   },
   {
     name: "Instagram",
-    handle: "@murtuja",
+    handle: "@murtujakayes",
     metric: "7000+",
     metricLabel: "Followers",
     icon: "instagram",
-    href: "https://instagram.com",
+    href: "https://www.instagram.com/murtujakayes/",
   },
 ];
 
@@ -426,9 +428,21 @@ export const github = {
 export const socials: SocialLink[] = [
   { name: "Email", href: `mailto:${site.email}`, icon: "mail" },
   { name: "GitHub", href: "https://github.com/murtuja43", icon: "github" },
-  { name: "LinkedIn", href: "https://linkedin.com", icon: "linkedin" },
-  { name: "YouTube", href: "https://youtube.com", icon: "youtube" },
-  { name: "Instagram", href: "https://instagram.com", icon: "instagram" },
+  {
+    name: "LinkedIn",
+    href: "https://www.linkedin.com/in/murtuja-kayes/",
+    icon: "linkedin",
+  },
+  {
+    name: "YouTube",
+    href: "https://www.youtube.com/@BeginnerBitsHQ",
+    icon: "youtube",
+  },
+  {
+    name: "Instagram",
+    href: "https://www.instagram.com/murtujakayes/",
+    icon: "instagram",
+  },
 ];
 
 export const contact = {
@@ -437,7 +451,7 @@ export const contact = {
     "Open to AI internships, ML engineering roles, research assistantships, and graduate scholarships. Reach out — I respond to every message.",
   cta: "Open to AI internships, research collaborations & scholarships.",
   // Web3Forms access key — replace with your key from https://web3forms.com
-  web3formsKey: "YOUR_WEB3FORMS_ACCESS_KEY",
+  web3formsKey: "ab369a0f-8cb0-4f50-8fec-fd6758e1e60b",
 };
 
 export const resumeUrl = "/resume.pdf";

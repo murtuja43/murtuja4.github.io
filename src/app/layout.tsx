@@ -88,9 +88,9 @@ const jsonLd = {
   ],
   sameAs: [
     "https://github.com/murtuja43",
-    "https://linkedin.com",
-    "https://youtube.com",
-    "https://instagram.com",
+    "https://www.linkedin.com/in/murtuja-kayes/",
+    "https://www.youtube.com/@BeginnerBitsHQ",
+    "https://www.instagram.com/murtujakayes/",
   ],
 };
 
